@@ -1,6 +1,11 @@
 # Create-a-strong-password-and-Evaluate-its-strength
 
 
+### Objective
+
+To understand what makes a password strong, test multiple passwords against online strength checkers, and analyze how complexity affects security.
+
+
 
 ### 🔧 Tool Used
 
@@ -11,9 +16,7 @@ I used PasswordMeter to test the strength of different passwords. (https://passw
 
 
 
-## Objective
 
-To understand what makes a password strong, test multiple passwords against online strength checkers, and analyze how complexity affects security.
 
  Tested Passwords & Result
 | **Password**              | **Strength**   | **Reason** |
